@@ -10,5 +10,5 @@ How to use :
 Example : 
 
     `sh commmiter.sh kalilinux/kali-rolling:latest kali_docker`
-    
-Be Lazy not dummy!!!
+
+
